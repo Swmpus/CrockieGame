@@ -6,22 +6,22 @@
   <NewExtensions/>
   <sounds name="sound">
     <sound>sound\sound0</sound>
-    <sound>sound\horn</sound>
-    <sound>sound\triple</sound>
-    <sound>sound\a_weapon</sound>
+    <sound>sound\SE_EnemyKilled_3</sound>
+    <sound>sound\SE_EnemyKilled_1</sound>
+    <sound>sound\SE_AWeapon</sound>
     <sound>sound\woosh</sound>
-    <sound>sound\sound5</sound>
-    <sound>sound\sound6</sound>
-    <sound>sound\woosh2</sound>
-    <sound>sound\overdrive</sound>
-    <sound>sound\KO</sound>
-    <sound>sound\sound10</sound>
+    <sound>sound\SE_EnemyKilled_2</sound>
+    <sound>sound\SE_BiggieThomas</sound>
+    <sound>sound\SE_Throw</sound>
+    <sound>sound\SE_MainTheme</sound>
+    <sound>sound\SE_KO</sound>
+    <sound>sound\SE_Victory</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\s_player</sprite>
     <sprite>sprites\s_enemy2</sprite>
     <sprite>sprites\s_enemy3</sprite>
-    <sprite>sprites\sprite3</sprite>
+    <sprite>sprites\S_Dirt</sprite>
     <sprite>sprites\s_k2</sprite>
     <sprite>sprites\s_ks</sprite>
     <sprite>sprites\s_k3</sprite>
@@ -30,13 +30,13 @@
     <sprite>sprites\s_stone</sprite>
     <sprite>sprites\s_sand</sprite>
     <sprite>sprites\s_monster</sprite>
-    <sprite>sprites\s_spike</sprite>
-    <sprite>sprites\S_SPIKEOP</sprite>
+    <sprite>sprites\s_NormalSpike</sprite>
+    <sprite>sprites\s_StrongSpike</sprite>
     <sprite>sprites\s_epsilon</sprite>
     <sprite>sprites\sprite14</sprite>
     <sprite>sprites\s_cheesegrater</sprite>
     <sprite>sprites\s_target</sprite>
-    <sprite>sprites\snow</sprite>
+    <sprite>sprites\s_Snow</sprite>
     <sprite>sprites\s_airball</sprite>
     <sprite>sprites\sprite19</sprite>
     <sprite>sprites\s_jump</sprite>

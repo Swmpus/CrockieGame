@@ -49,7 +49,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>KO</sound>
+            <sound>SE_KO</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -73,7 +73,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>sound6</sound>
+            <sound>SE_BiggieThomas</sound>
           </argument>
         </arguments>
       </action>
@@ -93,7 +93,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>sound10</sound>
+            <sound>SE_Victory</sound>
           </argument>
           <argument>
             <kind>3</kind>

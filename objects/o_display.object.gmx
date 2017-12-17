@@ -65,7 +65,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>overdrive</sound>
+            <sound>SE_MainTheme</sound>
           </argument>
         </arguments>
       </action>
@@ -85,7 +85,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>sound6</sound>
+            <sound>SE_BiggieThomas</sound>
           </argument>
         </arguments>
       </action>
@@ -105,7 +105,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>sound6</sound>
+            <sound>SE_BiggieThomas</sound>
           </argument>
           <argument>
             <kind>3</kind>

@@ -185,7 +185,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>woosh2</sound>
+            <sound>SE_Throw</sound>
           </argument>
           <argument>
             <kind>3</kind>

@@ -209,7 +209,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>sound5</sound>
+            <sound>SE_EnemyKilled_2</sound>
           </argument>
           <argument>
             <kind>3</kind>

@@ -749,7 +749,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>triple</sound>
+            <sound>SE_EnemyKilled_1</sound>
           </argument>
           <argument>
             <kind>3</kind>
