@@ -98,15 +98,15 @@
     <object>objects\o_shot3</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room3</room>
-    <room>rooms\room5</room>
-    <room>rooms\room0</room>
-    <room>rooms\room1</room>
-    <room>rooms\room2</room>
-    <room>rooms\room6</room>
-    <room>rooms\room7</room>
-    <room>rooms\room8</room>
-    <room>rooms\room9</room>
+    <room>rooms\r_Title</room>
+    <room>rooms\r_Instructions</room>
+    <room>rooms\r_Level_1_1</room>
+    <room>rooms\r_Level_1_2</room>
+    <room>rooms\r_Level_1_3</room>
+    <room>rooms\r_Boss_1</room>
+    <room>rooms\r_Boss_1_Lose</room>
+    <room>rooms\r_Level_2_1</room>
+    <room>rooms\r_Level_2_2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
